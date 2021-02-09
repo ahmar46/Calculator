@@ -1,3 +1,3 @@
 ### Made a nice looking Calculator.
 
-### Find me Instagram page:- @electrifying_codes.
+### Find me on Instagram page:- @electrifying_codes.
