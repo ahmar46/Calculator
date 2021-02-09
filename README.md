@@ -1,4 +1,4 @@
-### This a nice looking Calculator.
+### This is a nice looking Calculator.
 
 ### 
 
