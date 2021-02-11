@@ -1,5 +1,5 @@
 ### This is a nice looking Calculator.
 
-### Technologies Us
+### Technologies Used
 
 ### Find me on Instagram:- @electrifying_codes.
