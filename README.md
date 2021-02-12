@@ -1,5 +1,5 @@
 ### This is a nice looking Calculator.
 
-### Technologies Used: HTML, CSS & Java
+### Technologies Used: HTML, CSS & Javas
 
 ### Find me on Instagram:- @electrifying_codes.
