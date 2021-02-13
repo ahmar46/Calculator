@@ -1,4 +1,4 @@
-### This is a nice looking Calculator with full.
+### This is a nice looking Calculator with full fu.
 
 ### Technologies Used: HTML, CSS & Javascript.
 
