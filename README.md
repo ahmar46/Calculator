@@ -1,4 +1,4 @@
-### This is a nice looking Calculator wi.
+### This is a nice looking Calculator wit.
 
 ### Technologies Used: HTML, CSS & Javascript.
 
